@@ -10,12 +10,12 @@ public class Main {
         System.out.println(CONSTANTE_VARIAVEL);
 
 //        Tipos de variáveis
-        byte b=14;
+        byte b = 14;
         short s = 15785;
-        int m=15;
+        int m = 15;
         float n = 0.25F;
-        double d =0.2654156415145415415415441454;
-        System.out.println(b );
+        double d = 0.2654156415145415415415441454;
+        System.out.println(b);
         System.out.println(s);
         System.out.println(m);
         System.out.println(n);
@@ -24,9 +24,9 @@ public class Main {
 //        Textual
         char c = 'T';
         String str = "Bootcamp code girls";
-        
+
 //        Boolean
-        boolean w=true;
+        boolean w = true;
 
 
         System.out.println(c);
