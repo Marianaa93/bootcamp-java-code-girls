@@ -1,0 +1,14 @@
+O que são variáveis?
+- Um espaço reservado na memória do computador onde se pode guardar valores.
+
+Quais os tipos de variáveis?
+* Instância: objeto
+* Classe: classe
+* Local: dentro de métodos -> ex.: Método " Main": método de partida da programação Java. As variáveis vão ser criadas nesse método.
+* Parâmetro: Na assinatura do método
+
+Estrutra de uma variável
+
+<? visibilidade?> <? modificador?> Tipo nome <?=valor inicial?>
+
+* Apenas o tipo de dado é obrigatório na criação de uma variável. Por isso o JAVA  é conhecido como uma linguagem fortemente tipada.
