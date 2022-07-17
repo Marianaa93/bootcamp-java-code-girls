@@ -10,12 +10,17 @@ public class Main {
 
         System.out.println("Aritimético");
         aritimetico();
+        System.out.println("Casting");
+        casting();
 
         System.out.println("Atribuição");
         atribuicao();
 
         System.out.println("Precedência");
         precedencia();
+
+        System.out.println("Casting");
+        casting();
 
     }
 
@@ -126,6 +131,27 @@ public class Main {
         int c = 2;
         c *= i += 5; // c=2*i; i=i+5-> c=2*i; i=10+5; -> c=2*15;c=30
         System.out.println("c:" + c);
+
+    }
+
+    private static void casting() {
+        byte z1;
+        short s1 = 1000;
+        z1 = (byte) s1;
+        System.out.println("z1" + z1);
+
+        long l1;
+        int i1 = 10;
+        l1 = i1;
+        System.out.println("l1:" + l1);
+
+        int i3;
+        long l3=1000L;
+        i3=(int) l3;
+        System.out.println("i3:"+i3);
+
+
+
 
     }
 
