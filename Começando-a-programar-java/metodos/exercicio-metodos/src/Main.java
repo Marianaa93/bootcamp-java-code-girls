@@ -19,6 +19,15 @@ public class Main {
         System.out.println("Emprestimo");
         Emprestimo.calcular(5000, 2);
         Emprestimo.calcular(5000, 3);
+
+        //area
+        double areaQuadrado = Quadrilatero.area(5);
+        double areaRetangulo = Quadrilatero.area(5, 2);
+        double areaTrapezio = Quadrilatero.area(5, 6, 8);
+        System.out.println("A área do trapézio é:" + " " + areaQuadrado);
+        System.out.println("A área do Retângulo é:" + " " + areaRetangulo);
+        System.out.println("A área do trapézio é:" + " " + areaTrapezio);
+
     }
 
 
