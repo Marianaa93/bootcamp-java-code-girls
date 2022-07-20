@@ -47,7 +47,11 @@ class Carro {
 
     // método do total para encher o tanque
 
-    double totalValortanquee(double valorCombustivel){
+    double totalValorTanque(double valorCombustivel){
          return capacidadeTanque * valorCombustivel;
+
+
+         //criar objeto
+
     }
 }
