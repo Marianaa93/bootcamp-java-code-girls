@@ -24,7 +24,7 @@ class Main {
             Ex. criado por mim: imagina uma mãe com filhas chamadas "Maria".
             Se a mãe falar: "Maria, escreva!".
             Todas as Marias irão escrever, mas de forma diferente e do jeito delas.
-            Porém, se uma Maria não sabe escrever a palavra, ela copiará a Mãe.
+            Porém, Maria1 não sabe escrever a palavra, ela copiará a Mãe.
 
 
              */
