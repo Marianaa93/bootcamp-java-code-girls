@@ -34,7 +34,7 @@ class Main {
         ClasseFilha2 classeFilha2 = new ClasseFilha2();
         classeFilha2.metodo2();
 
-            /*Aqui não haverá polimorfismo pois eu estou trabalhando diretamente com a
+            /*Aqui não haverá polimorfismo, pois trabalha diretamente com a
             classe em que o método exite. Começo a chamar o método2() da ClasseFilha2, ao invés
             do tipo da ClasseFilha2.
             Ex. Maria está independente e teve filhxs.
