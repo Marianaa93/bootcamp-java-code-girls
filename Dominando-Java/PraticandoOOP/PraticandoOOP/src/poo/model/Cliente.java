@@ -3,7 +3,7 @@ package poo.model;
 import java.util.ArrayList;
 import java.util.List;
 
-public class Cliente {
+public class Cliente extends Pessoa {
        private List<Endereco> enderecos;
 
     public void adiconaEndereco(Endereco endereco){
