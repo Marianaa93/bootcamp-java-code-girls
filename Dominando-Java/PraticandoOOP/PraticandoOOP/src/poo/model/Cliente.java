@@ -4,11 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class Cliente {
-    public Integer codigo;
-    public String nome;
-    public String cpf;
-
-    private List<Endereco> enderecos;
+       private List<Endereco> enderecos;
 
     public void adiconaEndereco(Endereco endereco){
         if (endereco ==null){
