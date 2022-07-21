@@ -35,9 +35,9 @@ class Main {
         classeFilha2.metodo2();
 
             /*Aqui não haverá polimorfismo pois eu estou trabalhando diretamente com a
-            classe que que o método exite. Começo a chamar o método2() da ClasseFilha2, ao invés
+            classe em que o método exite. Começo a chamar o método2() da ClasseFilha2, ao invés
             do tipo da ClasseFilha2.
-            Ex. Maria está independente.
+            Ex. Maria está independente e teve filhxs.
              */
 
 
