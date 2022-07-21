@@ -2,8 +2,10 @@ package poo.model;
 
 import java.util.ArrayList;
 import java.util.List;
+import java.util.SplittableRandom;
 
 public class Cliente extends Pessoa {
+    public String numCartao;
        private List<Endereco> enderecos;
 
     public void adiconaEndereco(Endereco endereco){
